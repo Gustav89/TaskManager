@@ -1,0 +1,18 @@
+{
+  "todos":[
+    {
+      "title":"titulo1",
+      "owner":"Gonzalo",
+      "description":"Lorem ipsum dolor sit amet, consectetur adipisicing.",
+      "priority_level":"low"
+
+    },
+    {
+      "title":"titulo2",
+      "owner":"Gonzalo",
+      "description":"Lorem ipsum dolor sit amet, consectetur adipisicing.",
+      "priority_level":"high"
+
+    }
+  ]
+}
